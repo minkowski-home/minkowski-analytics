@@ -19,7 +19,7 @@ This project is part of our commitment to a **smarter, scalable, and deeply anal
 ---
 
 ## ⚙️ Key Components
-
+(Some components may be intentionally kept private)
 | Module               | Description                                                   |
 |----------------------|---------------------------------------------------------------|
 | `pipelines/`         | Ingests data from Meta/TikTok Ads APIs                        |
